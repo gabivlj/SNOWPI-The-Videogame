@@ -1,0 +1,1 @@
+canHit = false;

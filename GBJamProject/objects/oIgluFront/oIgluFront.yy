@@ -1,0 +1,29 @@
+{
+    "id": "ac970c4b-57fa-4eb7-92f7-4d3cc83532a4",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "oIgluFront",
+    "eventList": [
+        
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": null,
+    "solid": false,
+    "spriteId": "95ebf394-f34c-4697-9d69-79fe77a6e7e1",
+    "visible": true
+}

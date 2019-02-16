@@ -1,0 +1,1 @@
+arrayObj[OBJECTS.OFIRE] = false;
